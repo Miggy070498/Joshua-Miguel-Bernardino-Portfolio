@@ -6,8 +6,8 @@ A series of data science projects that utilizes various data analysis and machin
 - Performed univariate and bivariate analysis using graphs such as boxplots, scatterplot, and countplots
 - Established correlations among different features in the dataset
 
-![](https://github.com/Miggy070498/Joshua-Miguel-Bernardino-Portfolio/blob/main/images/distplot.png)
+![](/images/distplot.png)
 
-![](https://github.com/Miggy070498/Joshua-Miguel-Bernardino-Portfolio/blob/main/images/linegraph.png)
+![](/images/linegraph.png)
 
-![](https://github.com/Miggy070498/Joshua-Miguel-Bernardino-Portfolio/blob/main/images/scatterplot.png)
+![](/images/scatterplot.png)
