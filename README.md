@@ -1,5 +1,5 @@
 # Joshua-Miguel-Bernardino-Portfolio
-My portfolio for data science projects
+A series of projects on data science that utilizes various data analysis and machine learning processes
 
 # [Exploratory Data Analysis on a Supermarket Dataset](https://github.com/Miggy070498/EDA_Supermarket)
 - Cleaned incomplete and repetitive data in the dataset
