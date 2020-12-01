@@ -5,6 +5,9 @@ My portfolio for data science projects
 - Cleaned incomplete and repetitive data in the dataset
 - Performed univariate and bivariate analysis using graphs such as boxplots, scatterplot, and countplots
 - Established correlations among different features in the dataset
+
 ![](https://github.com/Miggy070498/Joshua-Miguel-Bernardino-Portfolio/blob/main/images/distplot.png)
+
 ![](https://github.com/Miggy070498/Joshua-Miguel-Bernardino-Portfolio/blob/main/images/linegraph.png)
+
 ![](https://github.com/Miggy070498/Joshua-Miguel-Bernardino-Portfolio/blob/main/images/scatterplot.png)
