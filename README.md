@@ -19,3 +19,10 @@ A series of data science projects that utilizes various data analysis and machin
 - Trained a Naive Bayes model to predict whether a tweet was postive or negative 
 - Assessed the accuracy of the model using a confusion matrix 
 
+![](/images/countplot.png)
+
+![](/images/histogram.png)
+
+![](/images/heatmap.png)
+
+
