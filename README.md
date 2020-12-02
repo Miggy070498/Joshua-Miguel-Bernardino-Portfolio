@@ -11,3 +11,11 @@ A series of data science projects that utilizes various data analysis and machin
 ![](/images/linegraph.png)
 
 ![](/images/scatterplot.png)
+
+# [Twitter Sentiment Analysis via Naive Bayes](https://github.com/Miggy070498/Twitter-Sentiment-Analysis)
+- Cleaned repititive data in the dataset
+- Visualized the dataset using bar charts, histograms, and a word cloud
+- Created pipeline that removed punctuation, stopwords and vectorizes the dataset
+- Trained a Naive Bayes model to predict whether a tweet was postive or negative 
+- Assessed the accuracy of the model using a confusion matrix 
+
