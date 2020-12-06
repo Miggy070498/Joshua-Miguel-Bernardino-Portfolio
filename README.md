@@ -25,4 +25,8 @@ A series of data science projects that utilizes various data analysis and machin
 
 ![](/images/heatmap.png)
 
-
+# [Amazon Review Classification](https://github.com/Miggy070498/Amazon-Reviews)
+- Trained various classification algorithms such as linear support vector 
+  machines, logistic regression, Naive Bayes, and Decision Tree
+- Assessed the performance of each through vrious metrics such as mean accuracy
+  and F1 score
