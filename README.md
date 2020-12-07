@@ -4,8 +4,7 @@ A series of data science projects that utilizes various data analysis and machin
 # [Exploratory Data Analysis on a Supermarket Dataset](https://github.com/Miggy070498/EDA_Supermarket)
 A series of analyses done on a supermarket dataset to establish correlations among features
 
-[Code](https://github.com/Miggy070498/EDA_Supermarket/blob/main/Supermarket%20EDA.ipynb)             
-[Dataset](https://github.com/Miggy070498/EDA_Supermarket/blob/main/supermarket_sales.csv)  
+[Code](https://github.com/Miggy070498/EDA_Supermarket/blob/main/Supermarket%20EDA.ipynb)                            [Dataset](https://github.com/Miggy070498/EDA_Supermarket/blob/main/supermarket_sales.csv)  
 - Cleaned incomplete and repetitive data in the dataset
 - Performed univariate and bivariate analysis using graphs such as boxplots, scatterplot, and countplots
 - Established correlations among different features in the dataset
