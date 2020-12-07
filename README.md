@@ -31,9 +31,8 @@ A series of data science projects that utilizes various data analysis and machin
 - Assessed the performance of each through vrious metrics such as mean accuracy
   and F1 score
 
-# [Grade Predictor] (https://github.com/Miggy070498/Grade-Prediction)
+# [Grade Predictor](https://github.com/Miggy070498/Grade-Prediction)
 - Cleaned and optimized dataset by removing outliers
 - Graphed multiple features to assess correlation with target variable
 - Trained a linear regression model and performed feature selection
 - Assessed model via mean score (0.9372848577938546)
-- 
