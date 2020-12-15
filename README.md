@@ -46,3 +46,9 @@ Linear Regression Model that predicts grades of students
 - Graphed multiple features to assess correlation with target variable
 - Trained a linear regression model and performed feature selection
 - Assessed model via mean score (0.9372848577938546)
+
+# [Cat and Dog Classifier](https://github.com/Miggy070498/Dog-and-Cat-Image-Classifier)
+A convolutional neural network that classifies cat and dog pictures
+
+[Code](https://github.com/Miggy070498/Dog-and-Cat-Image-Classifier/blob/main/Cat%20and%20Dog%20Classifier.ipynb)
+
