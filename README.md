@@ -32,7 +32,7 @@ An employee attrition model using a Random Forest Classifier
 
 ![](/images/correlation-for-attrotion.png)
 
-![](/images/age-attrition-plot.png)
+![](/images/age-attrition plot.png)
 
 # [Exploratory Data Analysis on a Supermarket Dataset](https://github.com/Miggy070498/EDA_Supermarket)
 A series of analyses done on a supermarket dataset to establish correlations among features
