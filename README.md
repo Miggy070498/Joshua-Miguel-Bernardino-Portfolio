@@ -55,7 +55,7 @@ Linear Regression Model that predicts grades of students
 - Trained a linear regression model and performed feature selection
 - Assessed model via mean score (0.9372848577938546)
 
-#[Movie Recommendation Engine](https://github.com/Miggy070498/Movie-Recommendation-Engine)
+# [Movie Recommendation Engine](https://github.com/Miggy070498/Movie-Recommendation-Engine)
 A movie recommendation engine using K Nearest Neighbors algorithm
 
 - Cleaned and optimized dataset by removing outliers
