@@ -22,6 +22,8 @@ A customer churn model using Logistic Regression
 
 ![](/images/monthlycharges-v-churn.png)
 
+![](/images/age-attrition plot.png)
+
 # [Employee Attrition](https://github.com/Miggy070498/Employee-Attrition)
 An employee attrition model using a Random Forest Classifier
 
